@@ -1,0 +1,35 @@
+HTTrack3.49-2 launched on Sun, 29 Aug 2021 21:07:29 at https://swiftbusinesspay.com/
+(winhttrack https://swiftbusinesspay.com/ -O "/Users/gladiusfinance/websites/swift" -Y -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:10:19	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from https://swiftbusinesspay.com/)
+21:10:20	Warning: 	Moved Permanently for s.w.org/robots.txt
+21:10:20	Warning: 	File has moved from s.w.org/robots.txt to https://wordpress.org/
+21:10:20	Warning: 	Moved Permanently for s.w.org/
+21:10:20	Warning: 	File has moved from s.w.org/ to https://wordpress.org/
+21:12:01	Error: 	"Not Found" (404) at link https://swiftbusinesspay.com/%22data:image/svg+xml,%3Csvg%20xmlns=http:/www.w3.org/2000/svg%20preserveAspectRatio=none%20overflow=visible%20height=100%%20viewBox=0%200%2024%2024%20fill=black%20stroke=none%3E%3Cpolygon%20points=9.4,2%2024,2%2014.6,21.6%200,21.6/%3E%3C/svg%3E (from https://swiftbusinesspay.com/)
+21:12:05	Error: 	"Not Found" (404) at link https://swiftbusinesspay.com/payu-payment-secure-jpg/ (from https://swiftbusinesspay.com/)
+21:12:22	Error: 	"Not Found" (404) at link https://swiftbusinesspay.com/wp-content/plugins/bdthemes-element-pack/images/backgrounds/divider-icon.svg (from https://swiftbusinesspay.com/wp-content/plugins/bdthemes-element-pack/assets/css/bdt-uikit.css?ver=3.5.5)
+21:12:22	Error: 	"Not Found" (404) at link https://swiftbusinesspay.com/wp-content/plugins/bdthemes-element-pack/images/backgrounds/list-bullet.svg (from https://swiftbusinesspay.com/wp-content/plugins/bdthemes-element-pack/assets/css/bdt-uikit.css?ver=3.5.5)
+21:12:22	Error: 	"Not Found" (404) at link https://swiftbusinesspay.com/wp-content/plugins/bdthemes-element-pack/images/backgrounds/form-datalist.svg (from https://swiftbusinesspay.com/wp-content/plugins/bdthemes-element-pack/assets/css/bdt-uikit.css?ver=3.5.5)
+21:12:22	Error: 	"Not Found" (404) at link https://swiftbusinesspay.com/wp-content/uploads/2020/08/foggy-street-at-night.jpg (from https://swiftbusinesspay.com/wp-content/uploads/elementor/css/post-1199.css?ver=1629920894)
+21:12:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CAlata%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CAsap%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.8 (from https://swiftbusinesspay.com/login/)
+21:12:22	Warning: 	Moved Permanently for https://swiftbusinesspay.com/?p=321
+21:12:22	Warning: 	File has moved from https://swiftbusinesspay.com/?p=321 to https://swiftbusinesspay.com/login/
+21:12:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://swiftbusinesspay.com/swift-login-php/?action=register (from https://swiftbusinesspay.com/login/)
+21:12:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.8 (from https://swiftbusinesspay.com/register/)
+21:12:43	Warning: 	Moved Permanently for https://swiftbusinesspay.com/?p=322
+21:12:43	Warning: 	File has moved from https://swiftbusinesspay.com/?p=322 to https://swiftbusinesspay.com/register/
+21:12:43	Warning: 	Moved Permanently for https://swiftbusinesspay.com/?p=2339
+21:12:43	Warning: 	File has moved from https://swiftbusinesspay.com/?p=2339 to https://swiftbusinesspay.com/terms/
+21:13:02	Warning: 	Moved Permanently for https://swiftbusinesspay.com/?p=326
+21:13:02	Warning: 	File has moved from https://swiftbusinesspay.com/?p=326 to https://swiftbusinesspay.com/password-reset/
+21:13:02	Warning: 	Found for https://swiftbusinesspay.com/swift-login-php/?action=register
+21:13:02	Warning: 	File has moved from https://swiftbusinesspay.com/swift-login-php/?action=register to https://swiftbusinesspay.com/register/
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 33 seconds : 265 links scanned, 244 files written (12248336 bytes overall) [7364563 bytes received at 22115 bytes/sec], 7463656 bytes transferred using HTTP compression in 195 files, ratio 28%, 4.4 requests per connection
+(7 errors, 17 warnings, 0 messages)
